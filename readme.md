@@ -1,5 +1,4 @@
 # Respuestas al cuestionario
-* * *
 
 ## ¿Qué comando utilizaste en el paso 11? ¿Por qué?
 
