@@ -1,18 +1,18 @@
 # Índice
 
-[¿Qué comando utilizaste en el paso 11? ¿Por qué?](#pregunta-1)  
-[¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?](#pregunta-2)  
-[El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?](#pregunta-3)  
-[El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?](#pregunta-4)  
-[El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?](#pregunta-5)  
-[¿Qué comando o comandos utilizaste en el paso 25?](#pregunta-6)  
-[El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?](#pregunta-7)  
-[¿Qué comando o comandos utilizaste en el paso 27?](#pregunta-8)  
-[¿Qué comando o comandos utilizaste en el paso 28?](#pregunta-9)  
-[¿Qué comando o comandos utilizaste en el paso 29?](#pregunta-10)  
-[¿Qué comando o comandos utilizaste en el paso 30?](#pregunta-11)  
-[¿Qué comando o comandos utilizaste en el paso 32?](#pregunta-12)  
-[¿Qué comando o comandos utilizaste en el paso 33?](#pregunta-13)  
+1. [¿Qué comando utilizaste en el paso 11? ¿Por qué?](#pregunta-1)
+1. [¿Qué comando o comandos utilizaste en el paso 12? ¿Por qué?](#pregunta-2)
+1. [El merge del paso 13, ¿Causó algún conflicto? ¿Por qué?](#pregunta-3)
+1. [El merge del paso 19, ¿Causó algún conflicto? ¿Por qué?](#pregunta-4)
+1. [El merge del paso 21, ¿Causó algún conflicto? ¿Por qué?](#pregunta-5)
+1. [¿Qué comando o comandos utilizaste en el paso 25?](#pregunta-6)
+1. [El merge del paso 26, ¿Podría ser fast forward? ¿Por qué?](#pregunta-7)
+1. [¿Qué comando o comandos utilizaste en el paso 27?](#pregunta-8)
+1. [¿Qué comando o comandos utilizaste en el paso 28?](#pregunta-9)
+1. [¿Qué comando o comandos utilizaste en el paso 29?](#pregunta-10)
+1. [¿Qué comando o comandos utilizaste en el paso 30?](#pregunta-11)
+1. [¿Qué comando o comandos utilizaste en el paso 32?](#pregunta-12)
+1. [¿Qué comando o comandos utilizaste en el paso 33?](#pregunta-13)
 
 # Pregunta 1
 ## ¿Qué comando utilizaste en el paso 11? ¿Por qué?
